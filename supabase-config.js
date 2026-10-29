@@ -4,6 +4,6 @@
 // NEVER paste your service_role/secret key here.
 
 window.DISCOUNTIQ_SUPABASE = {
-  url: "YOUR_SUPABASE_PROJECT_URL",
-  publishableKey: "YOUR_SUPABASE_PUBLISHABLE_KEY"
+  url: "https://xpdjbnhvkyccqegcrmnu.supabase.co",
+  publishableKey: "sb_publishable_L7xuRL2iuCkd1LvLk7WHBg_oTKiJC6P"
 };
